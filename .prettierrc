@@ -12,5 +12,6 @@
   "tabWidth": 2,
   "useTabs": false,
   "trailingComma": "all",
-  "vueIndentScriptAndStyle": false
+  "vueIndentScriptAndStyle": false,
+  "plugins": ["prettier-plugin-tailwindcss"]
 }

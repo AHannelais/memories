@@ -4,7 +4,7 @@ const count = 0;
 </script>
 
 <template>
-  <div>App</div>
+  <div class="bg-red-500 text-blue-500">App</div>
   <div>{{ count }}</div>
   <router-view />
 </template>
